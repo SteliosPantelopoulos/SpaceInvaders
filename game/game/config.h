@@ -1,0 +1,12 @@
+#pragma once
+
+#define ASSET_PATH "assets\\"
+#define WINDOW_WIDTH 1200
+#define WINDOW_HEIGHT 600
+#define CANVAS_WIDTH 1000
+#define CANVAS_HEIGHT 500
+#define NUMBER_OF_ENEMIES 44
+#define SHIELD_NUM 3
+#define COLUMNS 11
+#define LEFT_BOARDER 125
+#define RIGHT_BOARDER CANVAS_WIDTH-125
