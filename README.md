@@ -7,16 +7,16 @@ Simple Game Graphics Library: https://cgaueb.github.io/sgg/index.html
 This game is composed of 4 main screens:
 
 - The main menu of the game where the player can choose the screen that he wants.
-    ![Main Screen](assetsREADME\mainScreen.png)
+    ![Main Screen](/assetsREADME/mainScreen.png)
 
 - The settings menu where the player can choose the controls (WSAD or ARROWS) and to enable/disable the audio.
-    ![Settings Screen](assetsREADME\settingsScreen.png)
+    ![Settings Screen](/assetsREADME/settingsScreen.png)
 
 - The in game screen at the top left the score of the player, ath the top right his lives.
-    ![In game](assetsREADME\inGame.png)
+    ![In game](/assetsREADME/inGame.png)
 
 - The game over screen, appears when the player loses all his lives.
-    ![Game over screen](assetsREADME\gameoverScreen.png)
+    ![Game over screen](/assetsREADME/gameoverScreen.png)
 
 
 ## How to run this game
