@@ -1,0 +1,19 @@
+﻿  bullet.cpp
+  endgame.cpp
+  enemy.cpp
+C:\Users\pante\Desktop\SpaceInvaders\game\game\enemy.cpp(71,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  explosion.cpp
+  game.cpp
+C:\Users\pante\Desktop\SpaceInvaders\game\game\game.cpp(158,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pante\Desktop\SpaceInvaders\game\game\game.cpp(540,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  gameobject.cpp
+  main.cpp
+  Player.cpp
+  settings.cpp
+  shield.cpp
+  ufo.cpp
+C:\Users\pante\Desktop\SpaceInvaders\game\game\ufo.cpp(50,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pante\Desktop\SpaceInvaders\game\game\ufo.cpp(57,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  util.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'sggd.lib'
